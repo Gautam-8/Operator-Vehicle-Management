@@ -1,0 +1,85 @@
+
+  [
+    {
+
+    "type": "Bus",
+    "reg_NO": "JH-01-1234",
+    "capacity": 40,
+    "totalTrips": 7
+
+    }
+
+,
+{
+    "type": "Van",
+    "reg_NO": "JH-01-4321",
+    "capacity": 10,
+    "totalTrips": 9
+    
+},
+{
+    "type": "Car",
+    "reg_NO": "KA-02-2345",
+    "capacity": 4,
+    "totalTrips": 9
+    
+},
+{
+    "type": "Van",
+    "reg_NO": "ND-05-3645",
+    "capacity": 10,
+    "totalTrips": 10
+    
+},
+{
+    "type": "Bus",
+    "reg_NO": "ND-05-3645",
+    "capacity": 40,
+    "totalTrips": 10
+    
+},
+{
+    "type": "Bus",
+    "reg_NO": "KA-11-3345",
+    "capacity": 40,
+    "totalTrips": 7
+    
+},
+{
+    "type": "Car",
+    "reg_NO": "AP-10-4646",
+    "capacity": 4,
+    "totalTrips": 9
+    
+},
+{
+    "type": "Van",
+    "reg_NO": "WB-14-6576",
+    "capacity": 10,
+    "totalTrips": 9
+    
+},
+{
+    "type": "Van",
+    "reg_NO": "KA-12-4361",
+    "capacity": 10,
+    "totalTrips": 7
+    
+},
+{
+    "type": "Bus",
+    "reg_NO": "AP-11-6913",
+    "capacity": 40,
+    "totalTrips": 9
+    
+},
+{
+    "type": "Van",
+    "reg_NO": "BR-10-3578",
+    "capacity": 10,
+    "totalTrips": 9
+    
+}
+]
+
+   

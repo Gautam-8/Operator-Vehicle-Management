@@ -1,0 +1,515 @@
+ [
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Jamshedpur",
+        "capacity": 38
+    },
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Bokaro",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Chaibasa",
+        "capacity": 32
+    },
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Purulia",
+        "capacity": 37
+    },
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Kolkata",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Jamshedpur",
+        "capacity": 28
+    },
+    {
+        "Reg_NO": "JH-01-1234",
+        "from": "Ranchi",
+        "to": "Dhanbad",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Ranchi",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Chaibasa",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Kolkata",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Durgapur",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Kharagpur",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Bokaro",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Purulia",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Jamshedpur",
+        "to": "Dhanbad",
+        "capacity": 6
+    },
+    {
+        "Reg_NO": "JH-01-4321",
+        "from": "Ranchi",
+        "to": "Jamshedpur",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Mysore",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Goa",
+        "capacity": 2
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Pune",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Mumbai",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Mangalore",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Kerala",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Coimbatore",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Ooty",
+        "capacity": 3
+    },
+    {
+        "Reg_NO": "KA-02-2345",
+        "from": "Bangalore",
+        "to": "Kodaikanal",
+        "capacity": 2
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "Jalandhar",
+        "to": "New Delhi",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Amritsar",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Dharamshala",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Pathankot",
+        "capacity": 7
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Manali",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Srinagar",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Ambala",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Chandigarh",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Dalhousie",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "ND-05-3645",
+        "from": "New Delhi",
+        "to": "Kasol",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Pune",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Mahabaleshwar",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Mumbai",
+        "capacity": 36
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Chennai",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Hyderabad",
+        "capacity": 37
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Mangalore",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "KA-11-3345",
+        "from": "Bangalore",
+        "to": "Kerala",
+        "capacity": 38
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Vishakapatnam",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Tirupati",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Bhubaneshwar",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Vijayanagaram",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Vijayavada",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Raipur",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Bangalore",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Pune",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "AP-10-4646",
+        "from": "Hyderabad",
+        "to": "Ooty",
+        "capacity": 4
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Darjeeling",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Durgapur",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Kharagpur",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Digha",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Mandarmoni",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Jamshedpur",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Chandipur",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "New Jalpai Guri",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "WB-14-6576",
+        "from": "Kolkata",
+        "to": "Haldia",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Pune",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Mahabaleshwar",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Mumbai",
+        "capacity": 6
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Chennai",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Hyderabad",
+        "capacity": 7
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Mangalore",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "KA-12-4361",
+        "from": "Bangalore",
+        "to": "Kerala",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Vishakapatnam",
+        "capacity": 38
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Tirupati",
+        "capacity": 36
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Bhubaneshwar",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Vijayanagaram",
+        "capacity": 39
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Vijayavada",
+        "capacity": 33
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Raipur",
+        "capacity": 29
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Bangalore",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Pune",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "AP-11-6913",
+        "from": "Hyderabad",
+        "to": "Ooty",
+        "capacity": 40
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Kolkata",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Bihar-Sharif",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Gaya",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Lucknow",
+        "capacity": 7
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Kanpur",
+        "capacity": 9
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Jamshedpur",
+        "capacity": 10
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Kolkata",
+        "capacity": 8
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "New Delhi",
+        "capacity": 7
+    },
+    {
+        "Reg_NO": "BR-10-3578",
+        "from": "Patna",
+        "to": "Durgapur",
+        "capacity": 9
+    }
+
+]
+
+ 
